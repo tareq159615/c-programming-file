@@ -1,0 +1,1 @@
+{"name":"Local: Code_10","url":"c:\\C programin\\Week - 1\\PP_06\\Code_10.c","tests":[{"id":1711290818305,"input":"a","output":"b"},{"id":1711290825650,"input":"Z","output":"A"},{"id":1711292117622,"input":"z","output":"a"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\C programin\\Week - 1\\PP_06\\Code_10.c","group":"local","local":true}

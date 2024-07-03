@@ -1,0 +1,1 @@
+{"name":"Local: PP_Code_02","url":"c:\\C programin\\Week - 1\\PP_5\\PP_Code_02.c","tests":[{"id":1710860490241,"input":"10 20 +","output":"10 + 20 = 30"},{"id":1710860500110,"input":"40 50 -","output":"40 - 50 = -10"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\C programin\\Week - 1\\PP_5\\PP_Code_02.c","group":"local","local":true}

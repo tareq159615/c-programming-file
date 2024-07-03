@@ -1,0 +1,1 @@
+{"name":"Local: Code_11","url":"c:\\C programin\\Week - 1\\PP_06\\Code_11.c","tests":[{"id":1711293098366,"input":"2\n5\n5 4 3 2 1\n6\n2 4 5 6 5 1","output":"4 2 0 2 4 \n2 4 5 6 5 1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\C programin\\Week - 1\\PP_06\\Code_11.c","group":"local","local":true}

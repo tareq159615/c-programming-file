@@ -1,0 +1,1 @@
+{"name":"Local: hello_4","url":"c:\\C programin\\Week - 1\\PP_4\\hello_4.c","tests":[{"id":1710761695038,"input":"56","output":"56 is an even number."},{"id":1710761705480,"input":"13","output":"13 is an odd number."}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\C programin\\Week - 1\\PP_4\\hello_4.c","group":"local","local":true}

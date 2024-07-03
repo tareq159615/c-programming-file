@@ -1,0 +1,1 @@
+{"name":"Local: hello_1","url":"c:\\C programin\\Week - 1\\PP_4\\hello_1.c","tests":[{"id":1710759455027,"input":"10 20 ","output":"20 is the maximum. "},{"id":1710759494833,"input":"40 20","output":"40 is the maximum."}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\C programin\\Week - 1\\PP_4\\hello_1.c","group":"local","local":true}
